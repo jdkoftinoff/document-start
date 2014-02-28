@@ -12,16 +12,10 @@
 Fun Stuff
 ############
 
-.. container:: frontmatter fm.cover
+.. class:: frontmatter fm.cover center
 
-   .. class:: sponsor
-   
-   | Sponsor is
-   | Me
-   | of the
-   | Fun Society
+  This is the cover
 
-   This is the front matter
 
 
 .. toc
