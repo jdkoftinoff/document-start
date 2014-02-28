@@ -29,12 +29,29 @@ This is the first section
 One
 ===
 
+A dashed list:
+
+- Apple
+- Banana
+- Cherry
+
 Two
 ===
+
+A numbered list:
+
+1. Apple
+2. Banana
+3. Cherry
 
 Three
 =====
 
+A lettered list:
+
+a. Apple
+b. Banana
+c. Cherry
 
 
 .. class:: annex normative
