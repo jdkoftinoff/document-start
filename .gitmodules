@@ -1,0 +1,3 @@
+[submodule "ieee-sa-tools"]
+	path = ieee-sa-tools
+	url = /Users/jeffk/git/ieee-sa-tools.git
